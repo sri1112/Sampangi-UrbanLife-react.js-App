@@ -1,0 +1,35 @@
+.myClass{
+    color:aqua;
+    background-color: cyan;
+}
+.fb{
+    color: chocolate;
+}
+.g{
+    color: chartreuse;
+}
+.myClass{
+    /* color: lightcoral ;  */
+    margin: 16px;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    box-shadow: 0 7px 9px rgb(234, 125, 190);
+
+}
+button{
+    color: rgb(22, 23, 24);
+    margin: 7px;
+    padding: 5px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    box-shadow: 0 7px 9px rgb(243, 32, 158);
+    background-color: rgb(221, 255, 0)221, 255, 0;
+}
+
+@media(min-width: 992px){
+    div{
+    width: 70%;
+    display: inline-box;
+    text-decoration: center;
+}}

@@ -5,7 +5,7 @@ import WellnessLayout from './WellnessLayout'
 import LocationHighlights from './LocationHighlights '
 import ReturnOnInvestment from './ReturnOnInvestment '
 import CompanyStats from './CompanyStats'
-import ChatBot from './ChatBot'
+// import ChatBot from './ChatBot'
 
 
 export default function Home() {
